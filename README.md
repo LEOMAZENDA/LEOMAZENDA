@@ -1,12 +1,96 @@
-<h2 align="center">Olã! eu sou <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/">Leonildo Vivaldo Mazenda😃️</a></h2>
-   <h3  align="center"> Desenvolvedor de Software(.NET DEVELOPER)</h3>
-   <p>
-    Sou graduado e licenciado em Engenharia Informática pela UTANGA, com uma trajetória significativa no mundo da Tecnologia da Informação ao longo dos anos. Em 2015, embarquei na empolgante jornada da programação em .NET, e desde então venho aprimorando minhas habilidades. Atualmente, estou expandindo meu conhecimento para a área de Engenharia de Dados, explorando arquiteturas de software e aprimorando minhas habilidades em gestão de projetos</p>
- <p>
-Ao longo da minha carreira, tenho buscado desafios que me impulsionem a alcançar novos patamares. Minha paixão pela tecnologia e inovação me motivam a explorar não apenas a programação, mas também a complexidade das arquiteturas de dados. Estou comprometido em contribuir para projetos que não apenas desafiem minhas habilidades, mas também tenham um impacto positivo.</p>
+<!DOCTYPE html>
+<html lang="en">
 
- <p>Se você está interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e desafios empolgantes
-   </p>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Projeto</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: #007BFF;
+        }
+
+        h2 {
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li::before {
+            content: '•';
+            color: #007BFF;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Nome do Seu Projeto</h1>
+
+    <p>Uma breve descrição do seu projeto e suas principais funcionalidades.</p>
+
+    <h2>Instalação</h2>
+    <p>Descreva os passos necessários para instalar e configurar o projeto.</p>
+
+    <h2>Como Usar</h2>
+    <p>Forneça exemplos de código ou instruções sobre como usar o seu projeto.</p>
+
+    <h2>Contribuição</h2>
+    <p>Explique como os outros podem contribuir para o seu projeto.</p>
+
+    <h2>Licença</h2>
+    <p>Indique a licença sob a qual o seu projeto está disponível.</p>
+
+    <h2>Contato</h2>
+    <p>Forneça informações de contato, caso alguém queira entrar em contato contigo.</p>
+
+    <hr>
+
+    <p align="center">Feito com ❤️</p>
+
+</body>
+
+</html>
+
    <div align="center">
   <a href="https://github.com/LEOMAZENDA">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
