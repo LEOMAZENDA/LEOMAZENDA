@@ -1,5 +1,5 @@
-<h2 align="center">Olã! eu sou o <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/">Leonildo Vivaldo Mazenda  João 😃️</a></h2>
-   <h3  align="center">  Desenvolvedor de Software(.NET DEVELOPER)</h3>
+<h2 align="center">Olã! eu sou o <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/">Leonildo Vivaldo Mazenda 😃️</a></h2>
+   <h3  align="center"> Desenvolvedor de Software(.NET DEVELOPER)</h3>
    <p>
     Sou graduado e licenciado em Engenharia Informática pela UTANGA, com uma trajetória significativa no mundo da Tecnologia da Informação ao longo dos anos. Em 2015, embarquei na empolgante jornada da programação em .NET, e desde então venho aprimorando minhas habilidades. Atualmente, estou expandindo meu conhecimento para a área de Engenharia de Dados, explorando arquiteturas de software e aprimorando minhas habilidades em gestão de projetos.
 
@@ -13,7 +13,7 @@ Se você está interessado em colaborar ou trocar ideias, sinta-se à vontade pa
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaujoao1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-   <h1 align="center"> "" Technologias & Contribuições ""</h1>
+   <h1 align="center"> "" Tecnologias & Contribuições ""</h1>
    
 <div align="center" valign="top"><br>
   <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
