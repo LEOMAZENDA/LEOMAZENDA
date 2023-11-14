@@ -8,12 +8,12 @@ Ao longo da minha carreira, tenho buscado desafios que me impulsionem a alcança
 Se você está interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e desafios empolgantes
    </p>
    <div align="center">
-  <a href="https://github.com/nicolaujoao1">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolaujoao1&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  <a href="https://github.com/LEOMAZENDA">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaujoao1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-   <h1 align="center"> "" Technologies & Contributions ""</h1>
+   <h1 align="center"> "" Technologias & Contribuições ""</h1>
    
 <div align="center" valign="top"><br>
   <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
@@ -33,7 +33,7 @@ Se você está interessado em colaborar ou trocar ideias, sinta-se à vontade pa
 </div>
  
 <div align="center"> 
-  <a href = "mailto:ilolanicolau1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ilolanicolau1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:eng.leomazenda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/ilolanicolau1](https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 www.linkedin.com
