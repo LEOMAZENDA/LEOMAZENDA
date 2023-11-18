@@ -2,8 +2,11 @@
    <h3  align="center"> Desenvolvedor de Software(.NET DEVELOPER)</h3>
    
 <p>
-Sou um Desenvolvedor de Software com formação em Engenharia Informática pela Universidade Técnica de Angola (UTANGA). 
-   Iniciei minha jornada em programação .NET em 2015 e venho aprimorando minhas habilidades desde então. Actualmente, estou expandindo meu conhecimento para Engenharia de Dados, explorando arquicteturas de software e desenvolvendo habilidades em gestão de projectos. Busco desafios que impulsionem meu crescimento, sendo motivado pela paixão pela tecnologia e inovação. Comprometido em contribuir para projectos impactantes, estou aberto a novas oportunidades e desafios. Se interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contacto.
+Sou um Desenvolvedor de Software com formação em Engenharia Informática pela UTANGA. Iniciei minha jornada em programação .NET em 2015 e venho aprimorando minhas habilidades desde então. Actualmente, estou expandindo meu conhecimento para a área de Engenharia de Dados, arquicteturas de software e desenvolvendo habilidades em gestão de projectos. Busco desafios que impulsionem meu crescimento, sendo motivado pela paixão pela tecnologia e inovação. Comprometido em contribuir para projectos impactantes, estou aberto a novas oportunidades e desafios.
+</p>
+
+<p>
+Se interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contacto.
 </p>
    
    <div align="center">
