@@ -1,9 +1,9 @@
 <h2 align="center">Olã! eu sou <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/">Leonildo Vivaldo Mazenda😃️</a></h2>
    <h3  align="center"> Desenvolvedor de Software(.NET DEVELOPER)</h3>
    
-   <p>
-       Sou um Desenvolvedor de Software com formação em Engenharia Informática pela UTANGA. Iniciei minha jornada em programação .NET em 2015 e venho aprimorando minhas habilidades desde então. Actualmente, estou expandindo meu conhecimento para Engenharia de Dados, explorando arquicteturas de software e desenvolvendo habilidades em gestão de projectos. Busco desafios que impulsionem meu crescimento, sendo motivado pela paixão pela tecnologia e inovação. Comprometido em contribuir para projectos impactantes, estou aberto a novas oportunidades e desafios. Se interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contacto.
-   </p>
+<p>
+Sou um Desenvolvedor de Software com formação em Engenharia Informática pela UTANGA. Iniciei minha jornada em programação .NET em 2015 e venho aprimorando minhas habilidades desde então. Actualmente, estou expandindo meu conhecimento para Engenharia de Dados, explorando arquicteturas de software e desenvolvendo habilidades em gestão de projectos. Busco desafios que impulsionem meu crescimento, sendo motivado pela paixão pela tecnologia e inovação. Comprometido em contribuir para projectos impactantes, estou aberto a novas oportunidades e desafios. Se interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contacto.
+</p>
    
    <div align="center">
   <a href="https://github.com/LEOMAZENDA">
@@ -11,6 +11,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
    <h1 align="center"> "" Tecnologias & Contribuições ""</h1>
    
 <div align="center" valign="top"><br>
@@ -25,10 +26,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  ![Snake animation](https://github.com/LEOMAZENDA/LEOMAZENDA/blob/output/github-contribution-grid-snake.svg)  
-</div>
  
 <div align="center"> 
   <a href = "mailto:eng.leomazenda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
