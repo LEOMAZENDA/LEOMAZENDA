@@ -1,11 +1,8 @@
 <h2 align="center">Olã! eu sou <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/">Leonildo Vivaldo Mazenda😃️</a></h2>
    <h3  align="center"> Desenvolvedor de Software(.NET DEVELOPER)</h3>
+   
    <p>
-    Sou graduado e licenciado em Engenharia Informática pela UTANGA, com uma trajetória significativa no mundo da Tecnologia da Informação ao longo dos anos. Em 2015, embarquei na empolgante jornada da programação em .NET, e desde então venho aprimorando minhas habilidades. Atualmente, estou expandindo meu conhecimento para a área de Engenharia de Dados, explorando arquiteturas de software e aprimorando minhas habilidades em gestão de projetos</p>
- <p>
-Ao longo da minha carreira, tenho buscado desafios que me impulsionem a alcançar novos patamares. Minha paixão pela tecnologia e inovação me motivam a explorar não apenas a programação, mas também a complexidade das arquiteturas de dados. Estou comprometido em contribuir para projetos que não apenas desafiem minhas habilidades, mas também tenham um impacto positivo.</p>
-
- <p>Se você está interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e desafios empolgantes
+       Sou um Desenvolvedor de Software com formação em Engenharia Informática pela UTANGA. Iniciei minha jornada em programação .NET em 2015 e venho aprimorando minhas habilidades desde então. Actualmente, estou expandindo meu conhecimento para Engenharia de Dados, explorando arquicteturas de software e desenvolvendo habilidades em gestão de projectos. Busco desafios que impulsionem meu crescimento, sendo motivado pela paixão pela tecnologia e inovação. Comprometido em contribuir para projectos impactantes, estou aberto a novas oportunidades e desafios. Se interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contacto.
    </p>
    
    <div align="center">
