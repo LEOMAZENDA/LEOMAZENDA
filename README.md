@@ -10,8 +10,8 @@ Ao longo da minha carreira, tenho buscado desafios que me impulsionem a alcança
    
    <div align="center">
   <a href="https://github.com/LEOMAZENDA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
    <h1 align="center"> "" Tecnologias & Contribuições ""</h1>
@@ -24,13 +24,13 @@ Ao longo da minha carreira, tenho buscado desafios que me impulsionem a alcança
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=0&g=0&b=0">
- 
-</div><br>
-  <div align="center">
+  <img align="center" alt="github" height="35" width="35" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=0&g=0&b=0"> 
+</div>
 
-  ![Snake animation](https://github.com/LEOMAZENDA/LEOMAZENDA/blob/output/github-contribution-grid-snake.svg)
-  
+<br>
+
+<div align="center">
+  ![Snake animation](https://github.com/LEOMAZENDA/LEOMAZENDA/blob/output/github-contribution-grid-snake.svg)  
 </div>
  
 <div align="center"> 
