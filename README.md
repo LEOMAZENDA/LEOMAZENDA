@@ -7,10 +7,11 @@ Ao longo da minha carreira, tenho buscado desafios que me impulsionem a alcança
 
  <p>Se você está interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades e desafios empolgantes
    </p>
+   
    <div align="center">
   <a href="https://github.com/LEOMAZENDA">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaujoao1&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
    <h1 align="center"> "" Tecnologias & Contribuições ""</h1>
@@ -28,7 +29,7 @@ Ao longo da minha carreira, tenho buscado desafios que me impulsionem a alcança
 </div><br>
   <div align="center">
 
-  ![Snake animation](https://github.com/nicolaujoao1/nicolaujoao1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LEOMAZENDA/LEOMAZENDA/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
