@@ -8,14 +8,7 @@ Sou um Desenvolvedor de Software com formação em Engenharia Informática pela 
 <p>
 Se interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contacto.
 </p>
-   
-   <div align="center">
-  <a href="https://github.com/LEOMAZENDA">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
+     
    <h1 align="center"> "" Tecnologias & Contribuições ""</h1>
    
 <div align="center" valign="top"><br>
