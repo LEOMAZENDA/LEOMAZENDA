@@ -1,32 +1,31 @@
-<h1 align="center">Olá 👋, Eu sou LV</h1>
-<h3 align="center">Desenvolvedor .Net Fullstack, DBA, DJ, Técnico de Hardware, e muito mais.</h3>
+# Olá, Eu sou o LV! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LEOMAZENDA&label=Profile%20views&color=0e75b6&style=flat" alt="LEOMAZENDA" /> </p>
+## 🚀 Sobre mim
+
+Desenvolvedor .Net Fullstack, DBA, DJ, Técnico de Hardware, e muito mais. Apaixonado por música e produção musical, e sempre em busca de aprender novas tecnologias e habilidades.
 
 - 🔭 Atualmente estou trabalhando em **microsserviços e sistemas de troca de mensagens instantâneas usando .NET 8 e RabbitMQ.**
 - 🌱 Estou aprendendo **produção musical e novos instrumentos musicais.**
 - 👯 Estou procurando colaborar em **projetos open-source com .NET e novas tecnologias.**
 - 💬 Pergunte-me sobre **ASP.NET, RabbitMQ, microsserviços, e desenvolvimento de sistemas.**
-- 📫 Você pode me contatar pelo **email@example.com**.
+- 📫 Como me encontrar: **[email@example.com](mailto:email@example.com)**.
 - 📄 Saiba mais sobre minhas experiências [aqui](https://github.com/LEOMAZENDA).
 
-<h3 align="left">Conecte-se Comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/seu-perfil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="seu-perfil" height="30" width="40" /></a>
-<a href="https://github.com/LEOMAZENDA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="LEOMAZENDA" height="30" width="40" /></a>
-</p>
+## 🛠️ Tecnologias e Ferramentas
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-</p>
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LEOMAZENDA&show_icons=true&locale=en&layout=compact" alt="LEOMAZENDA" /></p>
+## 📊 Estatísticas do GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&show_icons=true&locale=en" alt="LEOMAZENDA" /></p>
+![Estatísticas do GitHub de LV](https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LEOMAZENDA&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LEOMAZENDA&" alt="LEOMAZENDA" /></p>
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LEOMAZENDA)
