@@ -1,18 +1,5 @@
 # Hello, Welcome! 👋
 
-## 🚀 About Me
-
-Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technologies and skills.
-
-- 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**.
-- 👯 Member of the **.NET Foundation** and contributor to open-source projects.
-- 💬 Experience with **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**.
-- 🌱 Learning **music production and musical instruments**.
-
-- 📫 How to reach me:
-  - **[eng.leomazenda@gmail.com](mailto:eng.leomazenda@gmail.com)** / **[leonildo.mazenda@hotmail.com](mailto:leonildo.mazenda@hotmail.com)**
-- 📄 Learn more about my experiences [here](https://github.com/LEOMAZENDA).
-
 ## 🛠️ Technologies & Tools
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -47,4 +34,17 @@ Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technolog
 <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 <a href="https://facebook.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
 <a href="https://wa.me/244923684849" onclick="window.open('https://wa.me/244923684849?text=Ol%C3%A1%21%20Podemos%20falar%3F%0AHello%21%20Can%20we%20chat%3F', '_blank'); return false;"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+
+## 🚀 About Me
+
+Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technologies and skills.
+
+- 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**.
+- 👯 Member of the **.NET Foundation** and contributor to open-source projects.
+- 💬 Experience with **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**.
+- 🌱 Learning **music production and musical instruments**.
+
+- 📫 How to reach me:
+  - **[eng.leomazenda@gmail.com](mailto:eng.leomazenda@gmail.com)** / **[leonildo.mazenda@hotmail.com](mailto:leonildo.mazenda@hotmail.com)**
+- 📄 Learn more about my experiences [here](https://github.com/LEOMAZENDA).
 
