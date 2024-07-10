@@ -4,9 +4,9 @@
 
 Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technologies and skills.
 
-- 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**.
-- 👯 Member of the **.NET Foundation** and contributor to open-source projects.
-- 💬 Experience with **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**.
+- 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**
+- 👯 Member of the **.NET Foundation** and contributor to open-source projects
+- 💬 Experience with **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**
 - 🌱 Learning **music production and musical instruments**.
 
 - 📫 How to reach me:
