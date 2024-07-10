@@ -1,19 +1,19 @@
-# Olá, Bem-vindo! 👋
+# Hello, Welcome! 👋
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Desenvolvedor .Net Fullstack, DBA, Técnico de Hardware, e apaixonado por música e produção musical. Sempre em busca de novas tecnologias e habilidades.
+Fullstack .Net Developer, DBA, Hardware Technician, and passionate about music and music production. Always seeking new technologies and skills.
 
-- 🔭 Trabalhando em **microsserviços, Docker, Kubernetes, .NET 8, RabbitMQ**.
-- 🌱 Aprendendo **produção musical e instrumentos musicais**.
-- 👯 Membro da **.NET Foundation** e colaborador de projetos open-source.
-- 💬 Experiência com **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**.
-- 📫 Como me encontrar:
+- 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**.
+- 🌱 Learning **music production and musical instruments**.
+- 👯 Member of the **.NET Foundation** and contributor to open-source projects.
+- 💬 Experience with **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**.
+- 📫 How to reach me:
   - **[eng.leomazenda@gmail.com](mailto:eng.leomazenda@gmail.com)**
   - **[leonildo.mazenda@hotmail.com](mailto:leonildo.mazenda@hotmail.com)**
-- 📄 Saiba mais sobre minhas experiências [aqui](https://github.com/LEOMAZENDA).
+- 📄 Learn more about my experiences [here](https://github.com/LEOMAZENDA).
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
@@ -25,25 +25,25 @@ Desenvolvedor .Net Fullstack, DBA, Técnico de Hardware, e apaixonado por músic
 ![EFCore](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=ef&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### Outros:
+### Others:
 - Clean Architecture
 - Design Patterns
 - SOLID Principles
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-![Estatísticas do GitHub de LV](https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&layout=compact&theme=radical)
+![LV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LEOMAZENDA&theme=radical)
 
-## 🏆 Troféus do GitHub
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LEOMAZENDA&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LEOMAZENDA)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/seu-perfil)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/244923684849)
+<a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/LEOMAZENDA" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+<a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+<a href="https://facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
+<a href="https://wa.me/244923684849" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
