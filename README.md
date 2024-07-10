@@ -42,9 +42,9 @@ Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technolog
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/LEOMAZENDA" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
-<a href="https:#" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-<a href="https:#" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
-<a href="https://wa.me/244923684849" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/LEOMAZENDA" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+<a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+<a href="https://facebook.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
+<a href="https://wa.me/244923684849" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 
