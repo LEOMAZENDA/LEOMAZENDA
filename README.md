@@ -1,30 +1,32 @@
-<h2 align="center">Olã! eu sou <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/">Leonildo Vivaldo Mazenda😃️</a></h2>
-   <h3  align="center"> Desenvolvedor de Software(.NET DEVELOPER)</h3>
-   
-<p>
-Sou um Desenvolvedor de Software com formação em Engenharia Informática pela UTANGA. Iniciei minha jornada em programação .NET em 2018 e venho aprimorando minhas habilidades desde então. Actualmente, estou expandindo meu conhecimento para a área de Engenharia de Dados, arquicteturas de software e desenvolvendo habilidades em gestão de projectos. Busco desafios que impulsionem meu crescimento, sendo motivado pela paixão pela tecnologia e inovação. Comprometido em contribuir para projectos impactantes, estou aberto a novas oportunidades e desafios.
+<h1 align="center">Olá 👋, Eu sou LV</h1>
+<h3 align="center">Desenvolvedor .Net Fullstack, DBA, DJ, Técnico de Hardware, e muito mais.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LEOMAZENDA&label=Profile%20views&color=0e75b6&style=flat" alt="LEOMAZENDA" /> </p>
+
+- 🔭 Atualmente estou trabalhando em **microsserviços e sistemas de troca de mensagens instantâneas usando .NET 8 e RabbitMQ.**
+- 🌱 Estou aprendendo **produção musical e novos instrumentos musicais.**
+- 👯 Estou procurando colaborar em **projetos open-source com .NET e novas tecnologias.**
+- 💬 Pergunte-me sobre **ASP.NET, RabbitMQ, microsserviços, e desenvolvimento de sistemas.**
+- 📫 Você pode me contatar pelo **email@example.com**.
+- 📄 Saiba mais sobre minhas experiências [aqui](https://github.com/LEOMAZENDA).
+
+<h3 align="left">Conecte-se Comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/seu-perfil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="seu-perfil" height="30" width="40" /></a>
+<a href="https://github.com/LEOMAZENDA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="LEOMAZENDA" height="30" width="40" /></a>
 </p>
 
-<p>
-Se interessado em colaborar ou trocar ideias, sinta-se à vontade para entrar em contacto.
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
 </p>
-     
-   <h1 align="center"> "" Tecnologias & Contribuições ""</h1>
-   
-<div align="center" valign="top"><br>
-  <img align="center" alt="Ilola C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Js" height="30" width="40" src="https://onesolutionsweb.com/wp-content/uploads/2022/02/angular-icon-logo-284x300.png.webp">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=0&g=0&b=0"> 
-</div>
 
-<br>
- 
-<div align="center"> 
-  <a href = "mailto:eng.leomazenda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LEOMAZENDA&show_icons=true&locale=en&layout=compact" alt="LEOMAZENDA" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&show_icons=true&locale=en" alt="LEOMAZENDA" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LEOMAZENDA&" alt="LEOMAZENDA" /></p>
