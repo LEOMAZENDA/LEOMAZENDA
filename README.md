@@ -36,6 +36,10 @@ Desenvolvedor .Net Fullstack, DBA, Técnico de Hardware, e muito mais. Apaixonad
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LEOMAZENDA&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LEOMAZENDA&theme=radical)
 
+## 🏆 Troféus do GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LEOMAZENDA&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)
