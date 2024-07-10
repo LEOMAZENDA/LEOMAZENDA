@@ -2,12 +2,12 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor .Net Fullstack, DBA, Técnico de Hardware, e muito mais. Apaixonado por música e produção musical, e sempre em busca de aprender novas tecnologias e habilidades.
+Desenvolvedor .Net Fullstack, DBA, Técnico de Hardware, e apaixonado por música e produção musical. Sempre em busca de novas tecnologias e habilidades.
 
-- 🔭 Atualmente estou trabalhando em **microsserviços, Docker, Kubernetes e sistemas de troca de mensagens instantâneas usando .NET 8 e RabbitMQ.**
-- 🌱 Estou aprendendo **produção musical também e tocar instrumentos musicais.**
-- 👯 Sou entrando agora como membro da **.NET Foundation e colaborar em projetos open-source com .NET e novas tecnologias.**
-- 💬 Lido com **ASP.NET, RabbitMQ, microsserviços, Clean Architecture, design patterns, SOLID, JS, Node.JS, RabbitMQ, Docker, Kubernetes e desenvolvimento de sistemas e muito mais...**
+- 🔭 Trabalhando em **microsserviços, Docker, Kubernetes, .NET 8, RabbitMQ**.
+- 🌱 Aprendendo **produção musical e instrumentos musicais**.
+- 👯 Membro da **.NET Foundation** e colaborador de projetos open-source.
+- 💬 Experiência com **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**.
 - 📫 Como me encontrar:
   - **[eng.leomazenda@gmail.com](mailto:eng.leomazenda@gmail.com)**
   - **[leonildo.mazenda@hotmail.com](mailto:leonildo.mazenda@hotmail.com)**
@@ -24,6 +24,11 @@ Desenvolvedor .Net Fullstack, DBA, Técnico de Hardware, e muito mais. Apaixonad
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![EFCore](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=ef&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### Outros:
+- Clean Architecture
+- Design Patterns
+- SOLID Principles
 
 ## 📊 Estatísticas do GitHub
 
