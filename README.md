@@ -25,11 +25,6 @@ Desenvolvedor .Net Fullstack, DBA, Técnico de Hardware, e muito mais. Apaixonad
 ![EFCore](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=ef&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### Outros:
-- Clean Architecture
-- Design Patterns
-- SOLID Principles
-
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de LV](https://github-readme-stats.vercel.app/api?username=LEOMAZENDA&show_icons=true&theme=radical)
