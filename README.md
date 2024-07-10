@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Fullstack .Net Developer, DBA, Hardware Technician, and passionate about music and music production. Always seeking new technologies and skills.
+Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technologies and skills.
 
 - 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**.
 - 🌱 Learning **music production and musical instruments**.
