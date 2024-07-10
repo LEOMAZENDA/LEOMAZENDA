@@ -44,5 +44,5 @@ I'm always seeking new technologies and skills.
 
 - 📫 How to reach me:
   - **[eng.leomazenda@gmail.com](mailto:eng.leomazenda@gmail.com)** / **[leonildo.mazenda@hotmail.com](mailto:leonildo.mazenda@hotmail.com)**
-- 📄 Learn more about my experiences [here](https://github.com/LEOMAZENDA).
+- 📄 Learn more about my experiences [here]([https://github.com/LEOMAZENDA](https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)).
 
