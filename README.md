@@ -35,7 +35,7 @@
 <a href="https://facebook.com/your-profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
 <a href="https://wa.me/244923684849" onclick="window.open('https://wa.me/244923684849?text=Ol%C3%A1%21%20Podemos%20falar%3F%0AHello%21%20Can%20we%20chat%3F', '_blank'); return false;"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 
-## 🚀 About Me
+## 🚀More About Me
 
 Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technologies and skills.
 
