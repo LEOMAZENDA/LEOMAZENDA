@@ -13,9 +13,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### Others:
-- Clean Architecture
-- Design Patterns
-- SOLID Principles
+- Clean Architecture | - Design Patterns | - SOLID Principles
 
 ## 📊 GitHub Stats
 
