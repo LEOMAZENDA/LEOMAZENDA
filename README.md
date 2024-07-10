@@ -4,14 +4,13 @@
 
 Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technologies and skills.
 
-- 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**
-- 👯 Member of the **.NET Foundation** and contributor to open-source projects
-- 💬 Experience with **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**
+- 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**.
+- 👯 Member of the **.NET Foundation** and contributor to open-source projects.
+- 💬 Experience with **ASP.NET, RabbitMQ, Clean Architecture, SOLID, Docker, Kubernetes**.
 - 🌱 Learning **music production and musical instruments**.
 
 - 📫 How to reach me:
-  - **[eng.leomazenda@gmail.com](mailto:eng.leomazenda@gmail.com)**
-  - **[leonildo.mazenda@hotmail.com](mailto:leonildo.mazenda@hotmail.com)**
+  - **[eng.leomazenda@gmail.com](mailto:eng.leomazenda@gmail.com)** / **[leonildo.mazenda@hotmail.com](mailto:leonildo.mazenda@hotmail.com)**
 - 📄 Learn more about my experiences [here](https://github.com/LEOMAZENDA).
 
 ## 🛠️ Technologies & Tools
