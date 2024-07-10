@@ -35,7 +35,7 @@
 
 ## 🚀More About Me
 
-Fullstack .Net Developer, DBA, Hardware Technician. Always seeking new technologies and skills.
+I'm always seeking new technologies and skills.
 
 - 🔭 Working on **microservices, Docker, Kubernetes, .NET 8, RabbitMQ**.
 - 👯 Member of the **.NET Foundation** and contributor to open-source projects.
